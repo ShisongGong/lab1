@@ -6,8 +6,11 @@ An example solution is in the _solution_ folder.
 Try to achieve the following tasks.  When done, write the command you
 used in this file underneath the particular question.
 
+"Push changes on git"
+
 1. Open your terminal (command prompt), either gitbash on windows or
    terminal on mac.
+   ttsts
    
 2. Which directory are you in?  Find it out!  Hint: `pwd`
 
